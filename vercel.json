@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://facemashthemes-au95yvd4pjztshfvy5bdbw.streamlit.app",
+      "permanent": true
+    }
+  ]
+}
